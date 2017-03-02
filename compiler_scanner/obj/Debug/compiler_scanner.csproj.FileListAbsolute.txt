@@ -1,0 +1,30 @@
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.exe.config
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.exe
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.pdb
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.csprojResolveAssemblyReference.cache
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.frm_scanner.resources
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.Properties.Resources.resources
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.csproj.GenerateResource.Cache
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.exe
+F:\C and C++\Projects\Console\compiler\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.pdb
+C:\Users\omid\Desktop\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.exe.config
+C:\Users\omid\Desktop\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.exe
+C:\Users\omid\Desktop\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.pdb
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.exe.config
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.exe
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.pdb
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.exe
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.pdb
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.csprojResolveAssemblyReference.cache
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.frm_scanner.resources
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.Properties.Resources.resources
+C:\Users\omid\Music\New\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.csproj.GenerateResource.Cache
+F:\C#\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.exe.config
+F:\C#\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.exe
+F:\C#\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.pdb
+F:\C#\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.exe
+F:\C#\compiler_scanner\compiler_scanner\bin\Debug\compiler_scanner.pdb
+F:\C#\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.csprojResolveAssemblyReference.cache
+F:\C#\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.frm_scanner.resources
+F:\C#\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.Properties.Resources.resources
+F:\C#\compiler_scanner\compiler_scanner\obj\Debug\compiler_scanner.csproj.GenerateResource.Cache
